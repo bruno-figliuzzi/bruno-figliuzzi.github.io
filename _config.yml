@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "About"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Bruno Figliuzzi"
 description              : &description "Academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://bruno-figliuzzi.github.io 
