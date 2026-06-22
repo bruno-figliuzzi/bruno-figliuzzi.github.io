@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, Mines Paris, PSL University, 2011
+  * Supervisor: Dominique Jeulin
+  * Title: 
+* M.S. in Engineering, Mines Paris, PSL University, 2008
+  * Specialization in nuclear engineering
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2016 - Now: Associate Professor (Maître Assistant) with tenure at Mines Paris, PSL University
+  * Researches on image analysis with applications in materials engineering
+  * Responsible of specialization track IDSC
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 - 2016: Assistant Professor at Mines Paris, PSL University
+  * Researches on image analysis with applications in materials engineering
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012 - 2013: Postdoctoral Fellow at Massachusetts Institute of Technology
+  * Supervisor: Professor Cullen Buie, LEMI
+  * Researches on microscale fluid mechanics and electrokinetics.
+  * Teaching: Thermal-fluid engineering (2.006)
+
+PhD students
+======
   
-Skills
+Former PhD students
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
