@@ -33,12 +33,19 @@ Work experience
 
 PhD students
 ======
-  
+* Delphine Doutsas
+* Raounek Zeghdoud
+* Christina Akleh
+
 Former PhD students
 ======
+* Hana Yahia
+* Tarek Zenati
+* Kaiwen Chang
   
 Teaching
 ======
   
 Awards
 ======
+
